@@ -82,7 +82,7 @@ describe('test the Basket', () => {
     });
 
     test('Doesn\'t throw error when item doesn\'t exist', () => {
-        expect(() => new Basket(['Pear'])).not.toThrow('');
+        expect(() => new Basket(['Pear'])).not.toThrow();
     });
 
 });
