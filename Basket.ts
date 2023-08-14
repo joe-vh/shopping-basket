@@ -1,4 +1,4 @@
-// using OOP, mapping list to Products/Offers for total
+// Using OOP, mapping list to Products/Offers for total
 
 // offer objects
 abstract class Offer {
